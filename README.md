@@ -1,3 +1,3 @@
 # Pharmacy
 Pharmacy management system
-its all about a pharmacy stores which stores collection of drugs and their manufacturers
+its all about a pharmacy stores which stores collection of drugs and their manufacturers together with their prices
